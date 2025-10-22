@@ -17,7 +17,7 @@ export default function Home(){
         
         <section className="mx-auto h-[500px] w-[700] mt-8 mb-6 rounded-lg bg-neutral-200 flex ">
           <div className="ml-16 my-10 w-1/2 leading-6 ">
-            <h2 className="font-extrabold text-6xl"><span className="bg-white pr-10 pl-4 leading-snug">LET'S </span>
+            <h2 className="font-extrabold text-6xl"><span className="bg-white pr-10 pl-4 leading-snug">LETS </span>
                             <br></br><span className="pl-4 py-4 leading-snug">EXPLORE</span>
                             <br></br><span className="bg-amber-300 pl-4 pr-5 leading-snug">UNIQUE</span> 
                             <br></br><span className="pl-4 leading-snug">CLOTHES.</span></h2>
